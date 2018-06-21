@@ -11,3 +11,5 @@ https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8?johan
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8?xtreamiptv.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Canal 13 Chile
 http://13.live.cdnz.cl/13hddesktop/13hd-desktop.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTES",ESPN
+https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_1200.m3u8
